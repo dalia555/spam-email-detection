@@ -44,3 +44,22 @@ SVM achieved approximately **98.7% accuracy**, while all five tested models achi
 ## Graphical User Interface
 
 The project includes a dark-themed Tkinter interface that allows users to classify emails and view the results from the different machine learning classifiers.
+## Project Overview
+
+![Project Overview](images/overview.png)
+
+## Machine Learning Classifiers
+
+![ML Classifiers](images/ML%20classifiers.png)
+
+## Results
+
+![Accuracy Results](images/accuracy.png)
+
+## GUI
+
+![Spam Detection GUI](images/GUI.png)
+
+## Conclusion
+
+![Conclusion](images/conclusion.png)
